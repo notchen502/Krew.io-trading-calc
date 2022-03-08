@@ -127,7 +127,7 @@ input[type=text]:focus {
         <tr><td>Goods</td><td>buy at</td><td>sell at</td><td onclick='sortTableBy("boughtFor")'>spent</td><td onclick='sortTableBy("soldFor")'>earned</td><td onclick='sortTableBy("profit")'>profit</td></tr>
     </table>
 <script>
-let  islandNames=["Luzon","Visayas","Dahzi","Caspiar","Teide","New Guinea","Lutari","Fraxos","Breighton","Zanzibar",];
+let  islandNames=["Spain","Phillipines","Guinea","malaysia","Brazil","Barabados","Taiwan","Cuba","Labrador","Jamaica",];
 let items=["Rum","Coffee","Spice","Silk","Gems","Sugar","Bananas"];
 let storageCapacity=6000;
 let itemCaps=[10,5,8,15,20,12,5];
